@@ -1,0 +1,13 @@
+.container{
+    padding: 200px;
+    display: flex;
+    align-items: center;
+}
+
+.title {
+  font-size: 60px;
+}
+
+.text_wrap {
+    width: 60%;
+}
