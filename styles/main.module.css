@@ -1,7 +1,7 @@
 .container{
     padding: 200px;
     display: flex;
-    align-items: center;
+    align-items: flex-start;
 }
 
 .title {
@@ -9,5 +9,9 @@
 }
 
 .text_wrap {
-    width: 60%;
+    padding-top: 2%
+}
+
+.start_btn {
+    margin: 2%;
 }

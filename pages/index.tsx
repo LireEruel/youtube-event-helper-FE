@@ -10,7 +10,7 @@ export default function Home() {
         <div className={styles.text_wrap}>
             <h1  className={styles.title} >Managing youtube events has never been easier</h1>
             <p>You can manage your YouTube event more easily and conveniently.</p>
-            <Button></Button>
+            <Button className={styles.start_btn} type='primary' size='large'> Get started</Button>
         </div>
           <Image src="/../public/imgs/party_with_present_and_pretty_girl.png" height={500} width={500} alt="party_with_present_and_pretty_girl"/>
     </div>
